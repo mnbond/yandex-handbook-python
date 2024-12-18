@@ -1,2 +1,2 @@
 # yandex-handbook-python
-Yandex handbook "Python Basics" answers
+Решение задач из хэндбука Яндекс «Основы Python»
