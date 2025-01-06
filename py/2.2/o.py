@@ -1,0 +1,9 @@
+a = int(input())
+b = int(input())
+d_1 = a // 10
+d_2 = a % 10
+d_3 = b // 10
+d_4 = b % 10
+min_d = min(d_1, d_2, d_3, d_4)
+max_d = max(d_1, d_2, d_3, d_4)
+print(max_d, (d_1 + d_2 + d_3 + d_4 - min_d - max_d) % 10, min_d, sep="")

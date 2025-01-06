@@ -1,0 +1,6 @@
+name = input()
+box = int(input())
+print(f"Группа №{box // 100}.")
+print(f"{box % 10}. {name}.")
+print(f"Шкафчик: {box}.")
+print(f"Кроватка: {box // 10 % 10}.")
