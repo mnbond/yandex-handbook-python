@@ -147,7 +147,7 @@ class Fraction:
         self.__simplify()
 ```
 
-E. Дроби v0.
+E. Дроби v0.2
 ```python
 class Fraction:
 
