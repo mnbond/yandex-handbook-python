@@ -1,7 +1,7 @@
 left = 1
 right = 1000
 while left <= right:
-    middle = left + (right - left) // 2
+    middle = (left + right) // 2
     print(middle)
     answer = input()
     if answer == "Меньше":
